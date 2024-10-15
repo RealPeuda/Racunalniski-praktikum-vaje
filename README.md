@@ -1,1 +1,2 @@
-# Ra-unalni-ki-praktikum---vaje-1
+# Računalniški praktikum
+Je to vse?
